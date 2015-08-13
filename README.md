@@ -1,6 +1,6 @@
 # Vagrant Provisioners
 
-My [Vagrant](https://www.vagrantup.com/) [provisioners ](http://docs.vagrantup.com/v2/provisioning/index.html), okay?
+My [Vagrant](https://www.vagrantup.com/) [provisioners](http://docs.vagrantup.com/v2/provisioning/index.html), okay?
 
 ---
 
